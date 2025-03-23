@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** who loves automation, problem-solving, an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martincarapia&layout=compact&theme=dark)
 
 ## 🔥 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martincarapia&repo=DynamicStreamManager&theme=dark)](https://github.com/martincarapia/DynamicStreamManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snidercs&repo=frc-bot-2025&theme=dark)](https://github.com/snidercs/frc-bot-2025)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=martincarapia&repo=GoProStreamRelay&theme=dark)](https://github.com/martincarapia/GoProStreamRelay)
 
