@@ -10,9 +10,6 @@ I'm a passionate **Software Engineer** who loves automation, problem-solving, an
 Current
 - **Software Engineer** at **Medical Informatics Engineering** 🏥
 - **Software Engineer (Contractor)** at **Kushview** 🎵
-
-
-- **Software Development Intern** at **Medical Informatics Engineering** 🏥
 - **Associate of Science in Computer Software Engineering** at **Ivy Tech Community College** 🎓
 
 ### 🛠️ Technologies & Tools
