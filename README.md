@@ -7,7 +7,7 @@ I'm a passionate **Remote Software Developer** with a strong background in **Pyt
 
 ### 💼 Professional Experience
 
-- **Software Developer** at **Medical Informatics Engineering** (Remote, May 2024 - Present)  
+- **Software Engineer** at **Medical Informatics Engineering** (Fort Wayne, IN, Jun 2025 - Present)  
   - Debug and fix software issues in C, JavaScript, and SQL  
   - Create and update SQL-based reports  
   - Build and maintain automated test cases  
@@ -15,7 +15,10 @@ I'm a passionate **Remote Software Developer** with a strong background in **Pyt
   - Work within Linux environments (Fedora, RedHat, CentOS)  
   - Communicate with internal teams to ensure timely resolution of issues
 
-- **Software Engineer** at **Kushview** (Remote, Feb 2022 - May 2024)  
+- **Software Development Intern** at **Medical Informatics Engineering** (Fort Wayne, IN, Mar 2024 - Jun 2025)  
+  - Gained hands-on experience in software engineering and contributed to development and maintenance of impactful software solutions
+
+- **Software Engineer** at **Kushview** (Fort Wayne, IN, Feb 2022 - Mar 2024)  
   - Developed and maintained responsive web applications using Hugo, JavaScript, and TypeScript  
   - Improved user experience through performance tuning and UI enhancements  
   - Integrated client feedback into deployments  
@@ -23,15 +26,11 @@ I'm a passionate **Remote Software Developer** with a strong background in **Pyt
 
 ### 🎓 Education
 
-- **Associate of Science: Software Development**  
-  Ivy Tech Community College, Fort Wayne (Mar 2023 - May 2025)
-- **High School Academic and Technical Honors**  
-  R. Nelson Snider, Fort Wayne (Aug 2021 - May 2025)
+- **Associate of Science: Computer Software Engineering**  
+  Ivy Tech Community College, Fort Wayne & Warsaw (May 2022 - Mar 2025)
 
 ### 🏆 Awards & Events
 
-- Certified Python Entry Level Programmer
-- Certified Associate in Python Programming
 - Rookie of The Year, Indiana State Champs FIRST Robotics
 - 1st Place, SkillsUSA State Competition for Computer Programming
 - FIRST Robotics World Championship Participant
@@ -39,15 +38,25 @@ I'm a passionate **Remote Software Developer** with a strong background in **Pyt
 - NEI TechFest Participant
 - Fort Wayne Mayor Mental Health Conference Participant
 
+### 📜 Certifications
+
+- Certified Entry-Level Python Programmer
+- Certified Associate in Python Programming
+- Promoting Teamwork and Collaboration
+- Conveying Professionalism
+- Thinking Critically and Solving Problems
+- Soft Skills Courseware Certificate of Completion
+
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, TypeScript, C++, C, Java
 - **Web:** HTML, CSS, Hugo, WordPress, REST APIs, Bootstrap, MeteorJS
 - **Databases:** SQL, SQLite, MongoDB
-- **Tools:** Git, GitHub, Jira, VS Code, Google Workspace
+- **Tools:** Git, GitHub, Jira, VS Code, Google Workspace, OpenAI API
 - **CI/CD:** GitHub Actions, Unit tests
 - **OS:** Linux (Fedora, RedHat), Windows, MacOS
 - **Cloud:** AWS, Railway, Cloudflare Pages
+- **Focus Areas:** Software Design, Software Infrastructure, AI Integration
 
 ### 🌐 Languages
 
